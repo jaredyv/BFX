@@ -57,5 +57,5 @@
 (function(e,n,t,a,o){function c(n){e[a]._apiKey=n.key;e[a]._env=n.env;e[a]._logLevel=n.logLevel
 }e[a]=c;e[a].l=1*new Date;var i,l;i=n.createElement(t);l=n.getElementsByTagName(t)[0];
 i.async=1;i.src=o;l.parentNode.insertBefore(i,l)})(window,document,"script","bfx",
-"https://bfx-objects.borderfree.com/v1/dist/bfx.js");
+"https://raw.githubusercontent.com/jaredyv/BFX/master/bfx.js");
 bfx({key:'c607afa0-7da0-11e5-b3f8-41a2bf1ee893'});
